@@ -47,8 +47,7 @@ You should review the Column Metadata tab on Kaggle for each data set to find de
 Flights
 link here: https://www.kaggle.com/usdot/flight-delays/data
 
-            https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/SomnathPODDAR-FlightDelayTABLEAUVisualisation/FlightdelayCancellations?publish=yes
-            
+           
    ![image](https://github.com/SOMPODDA/DA-104-US-Flight-Delay-Project-III/assets/70188796/7e7cf536-9cc4-48a6-9105-418ffaf353c4)
 
             
@@ -67,3 +66,6 @@ link here: https://www.kaggle.com/usdot/flight-delays/data
 12. Add interactivity and explanatory elements to your story
 13. Dashboard layout for mobile devices
 14. Data story through Tableau's story functionality
+
+ https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/SomnathPODDAR-FlightDelayTABLEAUVisualisation/FlightdelayCancellations?publish=yes
+            
