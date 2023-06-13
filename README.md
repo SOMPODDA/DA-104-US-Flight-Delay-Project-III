@@ -67,5 +67,5 @@ link here: https://www.kaggle.com/usdot/flight-delays/data
 13. Dashboard layout for mobile devices
 14. Data story through Tableau's story functionality
 
- https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/SomnathPODDAR-FlightDelayTABLEAUVisualisation/FlightdelayCancellations?publish=yes
+                     https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/SomnathPODDAR-FlightDelayTABLEAUVisualisation/FlightdelayCancellations?publish=yes
             
