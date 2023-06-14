@@ -69,6 +69,10 @@ link here: https://www.kaggle.com/usdot/flight-delays/data
 
                      https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/SomnathPODDAR-FlightDelayTABLEAUVisualisation/FlightdelayCancellations?publish=yes
             
+       
+       ![image](https://github.com/SOMPODDA/DA-104-US-Flight-Delay-Project-III/assets/70188796/dd46060b-73ec-4515-8c8e-59b286bb6883)
+
+
 Learning Outcomes:
 
 1. Evaluate the quality of data visualizations and build high-quality visualizations.
