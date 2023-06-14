@@ -57,7 +57,7 @@ link here: https://www.kaggle.com/usdot/flight-delays/data
 3. Understand core data visualization concepts such as correlation, linear relationships, and log scales
 4. How to choose the best visualization for your dataset
 5. Best practices for using colors and shapes in your plots
-6. Plot data onto a map visualization                        ![flight](https://github.com/SOMPODDA/DA-104-US-Flight-Delay-Project-III/assets/70188796/f603fb57-9f1d-4fd1-9299-20a148b587dc)
+6. Plot data onto a map visualization                                                                                                                                       ![flight](https://github.com/SOMPODDA/DA-104-US-Flight-Delay-Project-III/assets/70188796/f603fb57-9f1d-4fd1-9299-20a148b587dc)
 7. Best practices for organizing fields into dimensions and measures
 8. How to configure date and time fields for trend analysis
 9. Build bar charts, KPI charts, and histograms with a variable bin width
