@@ -69,3 +69,14 @@ link here: https://www.kaggle.com/usdot/flight-delays/data
 
                      https://public.tableau.com/app/profile/somnath.sudarshan.poddar/viz/SomnathPODDAR-FlightDelayTABLEAUVisualisation/FlightdelayCancellations?publish=yes
             
+Learning Outcomes:
+
+1. Evaluate the quality of data visualizations and build high-quality visualizations.
+2. Build interactive Tableau dashboards
+3. Identify measurable key metrics
+4. Identify potential limitations and sources of bias in your analyses.
+5. Understand the use cases for animating data.
+6. Create an animated dashboard with Tableau Pages.
+7. Incorporate more advanced visualization methods using Tableau. These should enhance the reader’s ability to understand the data and interact with the graphic.
+8. Collect and include rich feedback such as screenshots with annotations, audio files, videos of walkthroughs, discussion forum links, or images of sketches with handwritten comments.
+9. Explain the reasoning behind every initial design choice and every change you made. Reflect on the visualization development process.
