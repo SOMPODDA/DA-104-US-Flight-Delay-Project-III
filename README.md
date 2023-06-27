@@ -87,3 +87,5 @@ Learning Outcomes:
 7. Incorporate more advanced visualization methods using Tableau. These should enhance the reader’s ability to understand the data and interact with the graphic.
 8. Collect and include rich feedback such as screenshots with annotations, audio files, videos of walkthroughs, discussion forum links, or images of sketches with handwritten comments.
 9. Explain the reasoning behind every initial design choice and every change you made. Reflect on the visualization development process.
+
+   ![image](https://github.com/SOMPODDA/DA-104-US-Flight-Delay-Project-III/assets/70188796/e48a9715-8e6b-42c7-a260-2579d26b1a9f)
